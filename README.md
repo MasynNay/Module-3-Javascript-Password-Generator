@@ -34,3 +34,4 @@ Technologies Used: HTML5, CSS3, JavaScript
 
 ## Web Site Link
 
+https://masynnay.github.io/Module-3-Javascript-Password-Generator/
