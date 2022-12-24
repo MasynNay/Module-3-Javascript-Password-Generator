@@ -6,7 +6,7 @@ Javascript Password Generator
 
 A password is randomly generated based on criteria that the user provides when prompted.
 
-When the user clicks the "Generate Password" they are first promoted for password length. If outside the range of 8-75, the user is prompted to once again enter a password length within the range. The prompt will loop until the user enters a valid number.
+When the user clicks the "Generate Password" they are first promoted for password length. If outside the range of 8-128 characters, the user is prompted to once again enter a password length within the range. The prompt will loop until the user enters a valid number.
 
 The program then prompts the user to define if they would like to include numbers, characters, uppercase and/or lowercase letters. If the user selects none to all criteria, the program will ask it to select at least each one and will loop back through the prompts.
 
@@ -14,7 +14,7 @@ When all parameters have been defined, the password will appear within the passw
 
 Technologies Used: HTML5, CSS3, JavaScript
 
-## App functioning
+## Acceptance Criteria
 
     GIVEN I need a new, secure password
     WHEN I click the button to generate a password
@@ -31,6 +31,9 @@ Technologies Used: HTML5, CSS3, JavaScript
     THEN a password is generated that matches the selected criteria
     WHEN the password is generated
     THEN the password is written to the page.
+
+## Application Demonstration
+
 
 ## Web Site Link
 
