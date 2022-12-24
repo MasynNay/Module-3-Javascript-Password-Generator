@@ -34,6 +34,7 @@ Technologies Used: HTML5, CSS3, JavaScript
 
 ## Application Demonstration
 
+![](./assets/images/javascript-password-generator-demo.png)
 
 ## Web Site Link
 
